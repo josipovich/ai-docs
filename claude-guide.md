@@ -31,12 +31,12 @@ Complete reference for Claude Code CLI. See also `claude-code-tips.md` for workf
 | `Ctrl+O` | Toggle verbose output (see Claude's thinking) |
 | `Ctrl+R` | Search command history |
 | `Ctrl+G` | Open input in external text editor |
-| `Ctrl+V` / `Cmd+V` | Paste image from clipboard |
+| `Cmd+V` | Paste image from clipboard |
 | `Ctrl+B` | Background running task |
 | `Ctrl+T` | Toggle task list |
 | `Shift+Tab` | Cycle permission modes: Normal → Auto-accept → Plan |
-| `Option+P` / `Alt+P` | Switch model |
-| `Option+T` / `Alt+T` | Toggle extended thinking |
+| `Option+P` | Switch model |
+| `Option+T` | Toggle extended thinking |
 
 ### Multiline Input
 
