@@ -68,6 +68,7 @@ Golden rule: **do your work in Normal mode, only drop into Insert to type text, 
 | `%`               | Jump to matching bracket `(){}[]`          |
 | `{` / `}`         | Previous / next blank line (paragraph)     |
 | `<C-o>` / `<C-i>` | Jump back / forward (like browser history) |
+| `g;` / `g,`       | Go to previous / next edit location        |
 | `gd`              | Go to local definition                     |
 | `gf`              | Go to file under cursor                    |
 
